@@ -1,2 +1,2 @@
-# cruddy-2
-more tinkering around
+# cruddy
+just a simple session
